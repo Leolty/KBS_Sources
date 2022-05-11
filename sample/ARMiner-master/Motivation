@@ -1,0 +1,5 @@
+With the popularity of smartphones and mobile devices, mobile application (a.k.a. “app”) markets have been growing exponentially 
+in terms of number of users and downloads. App developers spend considerable effort on collecting and exploiting user feedback to
+improve user satisfaction, but suffer from the absence of effective user review analytics tools. To facilitate mobile app 
+developers discover the most “informative” user reviews from a large and rapidly increasing pool of user reviews,we present 
+“AR-Miner” — a novel computational framework for App Review Mining, which performs comprehensive analytics from raw user reviews.
